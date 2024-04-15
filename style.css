@@ -1,0 +1,20 @@
+h1{
+    color:#B40404;
+    font-size: 50px;
+    text-align: center;
+    font-family: neue, Helvetica, sans-serif;
+}
+
+th{
+    font-weight: 800;
+    background-color: #FA5858;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+gallery{
+    padding-right: 20px;
+}
